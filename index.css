@@ -1,0 +1,13 @@
+* {
+  padding: 0px;
+  margin: 0px;
+}
+body {
+  background-image: url();
+}
+ h1 {
+  font: 5vw;
+  font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  color: white;
+  filter: brightness(5px 5px 10px 10px blue);
+ }
