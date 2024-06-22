@@ -1,13 +1,33 @@
+@font-face {
+  font-family: download;
+  src: url();
+}
+
 * {
   padding: 0px;
   margin: 0px;
 }
 body {
-  background-image: url();
+  background-image: url(/download.webp);
+  background-size: cover;
+  
 }
- h1 {
-  font: 5vw;
+h1 {
+  font-size: 7vw;
+  margin: auto;
+  text-align: center;
+  color: wheat;
+  border: 2px solid gray;
+}
+ p {
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  transform: translate(-50%, -50%);
   font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+  /* font: 5vw; */
+  font-weight: 100;
+  font-size: 90px;
   color: white;
-  filter: brightness(5px 5px 10px 10px blue);
+  
  }
