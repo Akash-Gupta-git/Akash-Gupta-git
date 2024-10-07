@@ -19,13 +19,14 @@
 - 🎯Exploring advanced cloud computing with Google Cloud  
 <br>
 💞️ I am looking forward to collaborating <br>
+
 ⚡ Check my ✨ [Portfolio](https://akash-gupta-git.github.io/akash-portfolio/)
 
 - 📫 How to reach me : [Email](akashgupta01082002@gmail.com) or [Linkedin](https://www.linkedin.com/in/akash-gupta-718363296/)
 <h4>Tech Stack/ Certifications</h4>
 
 - I participated in [Google Facilitator Program](https://www.cloudskillsboost.google/public_profiles/8c74d0f0-e93f-43da-9a49-99e61800e527)
-- I participated in [hackthon](https://drive.google.com/drive/folders/1SimLP1vvpGm-dJT0nNxD9dG6dT93x1aA)
+- I participated in [hackthon](https://drive.google.com/file/d/13uRVGILmQKh3Di-DaJyIZOTGeI1uGFTi/view?usp=sharing)
 - I build some webapp most of which you will find on my Portfolio 
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: ...
