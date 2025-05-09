@@ -22,7 +22,7 @@
 <br>
 💞️ I am looking forward to collaborating <br>
 
-⚡ Check my ✨ [![Portfolio](https://img.shields.io/badge/-portfolio-%23E44D27?style=flat&logo=portfolio&logoColor=ffffff)](https://akash-gupta-git.github.io/akash-portfolio/)
+⚡ Check my ✨ [![Portfolio](https://img.shields.io/badge/-portfolio-%23E44D27?style=flat&logo=portfolio&logoColor=ffffff)](https://www.iamakashit.tech)
 
 - 📫 How to reach me : [Email](akashgupta01082002@gmail.com) or [Linkedin](https://www.linkedin.com/in/akash-gupta-718363296/)
 <h3 align="left">Connect with me: <img align='center' src="https://github.com/UjjwalSaini07/UjjwalSaini07/blob/main/Assets_Used/Gifs/Port_HandShake.gif" width="50"></h3>
