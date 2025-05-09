@@ -1,8 +1,8 @@
-<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/sanjay-k-v/">Akash Gupta</a> </h1>
+<h1 align="center"> Hi there, I'm <a href="https://www.linkedin.com/in/akash-gupta-718363296/">Akash Gupta</a> </h1>
 
 <!--- Adding Header Elements -->
 <p align="center">
-  <a href="https://akash-gupta-git.github.io/akash-portfolio/">Portfolio</a> -
+  <a href="https://www.iamakashit.tech">Portfolio</a> -
   <a href="https://www.linkedin.com/in/akash-gupta-718363296/">LinkedIn</a> - 
   <a href="https://linktr.ee/i_am_akashit">Linktr.ee</a> -
   <a href="https://www.cloudskillsboost.google/public_profiles/8c74d0f0-e93f-43da-9a49-99e61800e527">Google Faclitator Program</a> -
@@ -37,6 +37,7 @@
 
 - I participated in [Google Facilitator Program](https://www.cloudskillsboost.google/public_profiles/8c74d0f0-e93f-43da-9a49-99e61800e527)
 - I participated in [hackthon](https://drive.google.com/file/d/13uRVGILmQKh3Di-DaJyIZOTGeI1uGFTi/view?usp=sharing)
+- View my verified achievement [GitHub Foundations](https://www.credly.com/badges/c5bf27e8-c763-4ef2-8591-810737a11d1e/linked_in_profile)
 - I build some webapp most of which you will find on my Portfolio 
 - 😄 Pronouns: He, Him
 - ⚡ Fun fact: ...
