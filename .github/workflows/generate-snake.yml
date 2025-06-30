@@ -2,7 +2,7 @@ name: Generate Snake Animation
 
 on:
   schedule:
-    - cron: "0 0 * * *"  # Runs daily at midnight
+    - cron: "0 0 * * *"  # Daily midnight
   workflow_dispatch:
 
 jobs:
@@ -14,10 +14,10 @@ jobs:
           github_user_name: Akash-Gupta-git
           outputs: |
             dist/github-contribution-grid-snake.svg
-          snake_color: '#CC6600'            # 🟠 Brownish-Orange Snake
-          background_color: '#0a0a0a'       # ⚫ Dark Background
-          grid_color: '#1a1a1a'             # 🟤 Subtle Grid
-          time_zone: 'Asia/Kolkata'         # 🇮🇳 Your Timezone
+          snake_color: '#CC6600'
+          background_color: '#0a0a0a'
+          grid_color: '#1a1a1a'
+          time_zone: 'Asia/Kolkata'
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
