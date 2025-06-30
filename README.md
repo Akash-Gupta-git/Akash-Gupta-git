@@ -130,6 +130,15 @@
     <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" title="GitHub Foundations" />
   </a>
 
+   <!-- Holopin hacktoberfest2024 -->
+  <a href="https://www.holopin.io/claim/cmcjg41jr058607lgfaa9xe0e" target="_blank">
+    <img src="https://assets.holopin.io/eyJidWNrZXQiOiJob2xvcGluLWFzc2V0cyIsImtleSI6ImFzc2V0cy9jbDd0ZDhncDUwMTMyMDlrMHd1OHFlNHg5IiwiZWRpdHMiOnsicm90YXRlIjpudWxsfX0=" width="100" title="Early Bird Pegasaurus" />
+  </a>
+
+  <a href="https://www.holopin.io/hacktoberfest2024/userbadge/cm1x93ei4148290cl6ihmmcdx8" target="_blank">
+    <img src="https://assets.holopin.io/hf2024levels/level0-sloth-terminal-0-0-0-0.webp" width="100" title="Early Bird Pegasaurus" />
+  </a>
+
 </div>
 
 <!--------------------------Github Progress------------------------------------------------>
