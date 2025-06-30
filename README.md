@@ -111,6 +111,27 @@
 
 </div>
 
+<h3 align="center">🏅 Badges & Achievements</h3>
+
+<div align="center" style="display:flex; gap:15px; flex-wrap: wrap; justify-content: center;">
+
+  <!-- Postman Challenge Badge -->
+  <a href="https://gssoc.girlscript.tech/leaderboard" target="_blank">
+    <img src="https://raw.githubusercontent.com/GSSoC24/Postman-Challenge/main/docs/assets/Postman%20White.png" width="100" title="Postman Challenge Participant" />
+  </a>
+
+  <!-- Google Cloud Facilitator -->
+  <a href="https://www.cloudskillsboost.google/public_profiles/8c74d0f0-e93f-43da-9a49-99e61800e527" target="_blank">
+    <img src="https://cdn.qwiklabs.com/Sz1Xo5qmbCHlNiUoH52UExtrPBzLcAS55bDltYbtmqk%3D" width="100" title="Google Cloud Facilitator Program" />
+  </a>
+
+  <!-- GitHub Foundations (Credly) -->
+  <a href="https://www.credly.com/badges/c5bf27e8-c763-4ef2-8591-810737a11d1e/public_url" target="_blank">
+    <img src="https://images.credly.com/size/340x340/images/024d0122-724d-4c5a-bd83-cfe3c4b7a073/image.png" width="100" title="GitHub Foundations" />
+  </a>
+
+</div>
+
 <!--------------------------Github Progress------------------------------------------------>
 <hr>
 <h3 align="left">
@@ -134,7 +155,9 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Akash-Gupta-git&layout=compact&theme=radical&hide_border=true" />
 </p>
 
+<!-- 🐍 GitHub Contribution Snake Animation -->
 <p align="center">
   <img src="https://raw.githubusercontent.com/Akash-Gupta-git/Akash-Gupta-git/output/github-contribution-grid-snake.svg" alt="snake gif" />
 </p>
 <hr>
+
