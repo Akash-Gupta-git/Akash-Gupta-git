@@ -14,6 +14,10 @@ jobs:
           github_user_name: Akash-Gupta-git
           outputs: |
             dist/github-contribution-grid-snake.svg
+              snake_color: 'CC6600'
+              background_color: '#0a0a0a'
+              grid_color: '#1a1a1a'
+              time_zone: 'Asia/Kolkata'
 
       - name: Push to GitHub
         uses: crazy-max/ghaction-github-pages@v3
