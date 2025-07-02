@@ -155,9 +155,9 @@
 
 
 <p align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Akash-Gupta-git&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=10&rank_icon=github" />
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=Akash-Gupta-git&show_icons=true&theme=radical&count_private=true&hide_border=true&border_radius=10&rank_icon=github" />
   &nbsp;&nbsp;
-  <img height="180em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Gupta-git&theme=radical&hide_border=true" />
+  <img height="160em" src="https://github-readme-streak-stats.herokuapp.com/?user=Akash-Gupta-git&theme=radical&hide_border=true" />
 </p>
 
 <p align="center">
