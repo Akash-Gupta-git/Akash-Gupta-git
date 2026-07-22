@@ -6,7 +6,7 @@
 <!--- Adding Header Elements -->
 
 <p align="center">
-  <a href="https://www.iamakashit.tech" target="_blank">🌐 Portfolio</a> &nbsp;|&nbsp;
+  <a href="https://iamakashit.vercel.app/" target="_blank">🌐 Portfolio</a> &nbsp;|&nbsp;
   <a href="https://www.linkedin.com/in/akash-gupta-718363296/" target="_blank">💼 LinkedIn</a> &nbsp;|&nbsp;
   <a href="https://linktr.ee/i_am_akashit" target="_blank">🔗 Linktree</a> &nbsp;|&nbsp;
   <a href="https://www.cloudskillsboost.google/public_profiles/8c74d0f0-e93f-43da-9a49-99e61800e527" target="_blank">🚀 Google Facilitator</a> &nbsp;|&nbsp;
